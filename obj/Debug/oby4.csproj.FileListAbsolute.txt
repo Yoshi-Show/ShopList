@@ -1,0 +1,10 @@
+C:\Users\IT\source\repos\oby4\bin\Debug\oby4.exe.config
+C:\Users\IT\source\repos\oby4\bin\Debug\oby4.exe
+C:\Users\IT\source\repos\oby4\bin\Debug\oby4.pdb
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.Form1.resources
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.Properties.Resources.resources
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.exe
+C:\Users\IT\source\repos\oby4\obj\Debug\oby4.pdb
