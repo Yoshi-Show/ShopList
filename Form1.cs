@@ -22,12 +22,22 @@ namespace oby4
             string Name;
             int Price;
             int Quantity;
+            bool gotDouble = false; 
 
             Name = textBox1.Text.Trim();
 
             bool PriceOK = int.TryParse(textBox2.Text.Trim(), out Price);
             bool QuantityOK = int.TryParse(textBox3.Text.Trim(), out Quantity);
-            if (PriceOK && QuantityOK && Name.Length > 0)
+
+            for (int i = 0; i < listBox1.Items.Count; i++)
+            {
+                if (listBox1.Items[i].ToString().StartsWith(Name))
+                {
+                    gotDouble = true;
+                }
+            }
+
+            if (PriceOK && QuantityOK && Name.Length > 0 && !gotDouble)
             {
                 listBox1.Items.Add(Name + " " + Price.ToString() + "p." + Quantity.ToString() + "шт.");
             }

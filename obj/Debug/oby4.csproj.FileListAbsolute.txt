@@ -8,3 +8,13 @@ C:\Users\IT\source\repos\oby4\obj\Debug\oby4.csproj.GenerateResource.cache
 C:\Users\IT\source\repos\oby4\obj\Debug\oby4.csproj.CoreCompileInputs.cache
 C:\Users\IT\source\repos\oby4\obj\Debug\oby4.exe
 C:\Users\IT\source\repos\oby4\obj\Debug\oby4.pdb
+C:\1304\C#\ShopList-main\bin\Debug\oby4.exe.config
+C:\1304\C#\ShopList-main\bin\Debug\oby4.exe
+C:\1304\C#\ShopList-main\bin\Debug\oby4.pdb
+C:\1304\C#\ShopList-main\obj\Debug\oby4.csproj.AssemblyReference.cache
+C:\1304\C#\ShopList-main\obj\Debug\oby4.Form1.resources
+C:\1304\C#\ShopList-main\obj\Debug\oby4.Properties.Resources.resources
+C:\1304\C#\ShopList-main\obj\Debug\oby4.csproj.GenerateResource.cache
+C:\1304\C#\ShopList-main\obj\Debug\oby4.csproj.CoreCompileInputs.cache
+C:\1304\C#\ShopList-main\obj\Debug\oby4.exe
+C:\1304\C#\ShopList-main\obj\Debug\oby4.pdb
